@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Geometr415 Blk BT, Swis721 Hv BT;
+  font-weight: 400;
+  &::selection {
+    background: darken($color: #81c995, $amount: 20%);
+    color: #fff;
+  }
+}
+
+:root {
+  font-size: 1rem;
+  color: #222222;
+  line-height: 1;
+}
+
+body {
+  event-time-handler.time-container#event-time {
+    font-size: 900%;
+    letter-spacing: -5px;
+  }
+}
