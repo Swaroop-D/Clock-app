@@ -15,4 +15,4 @@ Hey a challenge for you! Re-create this app within 2 days without seeing any sou
 
 This app will help you sharpen your JS skills...(hopefully).
 
-Thanks, please let me know what you think about `${this.challenge};`
+Thanks, please let me know what you think about `${this.app && this.challenge};`
